@@ -41,7 +41,6 @@ pre {
 
   pre,
   blockquote {
-    border: 1px solid #999;
     page-break-inside: avoid;
   }
 
@@ -198,7 +197,6 @@ pre {
 }
 
 blockquote {
-  border-left: 3px solid #01ff70;
   padding-left: 1rem;
 }
 
@@ -222,6 +220,6 @@ blockquote {
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: rgb(249, 89, 31);
   color: white;
 }
